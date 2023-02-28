@@ -27,7 +27,7 @@ const Home = () => {
 
   return (
     <div className='root'>
-      <h1>Team 9</h1>
+      <h1>Team 10</h1>
       <button
         className="btn"
         onClick={addCharacter}
